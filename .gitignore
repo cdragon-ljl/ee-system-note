@@ -1,4 +1,6 @@
-# Only track articles/
+# Only track articles/ and README
 *
 !articles/
+!README.md
 !.gitignore
+push.sh
