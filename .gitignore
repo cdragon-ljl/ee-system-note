@@ -1,6 +1,15 @@
-# Only track articles/ and README
+# Only track specific directories and files
 *
 !articles/
+!articles/**
+!frameworks/
+!frameworks/**
+!learning-roadmaps/
+!learning-roadmaps/**
+!study-notes/
+!study-notes/**
+!jd-decode/
+!jd-decode/**
 !README.md
 !.gitignore
 push.sh
